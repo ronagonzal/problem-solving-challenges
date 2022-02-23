@@ -1,9 +1,21 @@
 # Data Structures
 
-## [Arrays](arrays/ARRAYS.rst)
+## [Array](array/ARRAY.md)
 
-## [Linked Lists](linked-lists/LINKED-LISTS.rst)
+## [Linked List](linked-list/LINKED-LIST.md)
 
-## [Stacks](stacks/STACKS.rst)
+## [Stack](stack/STACK.md)
 
-## [Queues](queues/QUEUES.rst)
+## [Queue](queue/QUEUE.md)
+
+## [Binary Tree](binary-tree/BINARY-TREE.md)
+
+## [Binary Search Tree](binary-search-tree/BINARY-SEARCH-TREE.md)
+
+## [Heap](heap/HEAP.md)
+
+## [Hashing](hashing/HASHING.md)
+
+## [Graph](graph/GRAPH.md)
+
+## [Matrix](matrix/MATRIX.md)
